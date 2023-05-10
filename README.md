@@ -9,7 +9,7 @@
 * Sciences
 * Privacy
 * Programmation
-* Videogames
+* .~~Videogames~~
 
 ### I'm from switzerland 🇨🇭 and I manage in English
 
