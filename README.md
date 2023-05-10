@@ -6,10 +6,10 @@
 
 ### My passions :
 
-### *Sciences
-### *Privacy
-### *Programmation
-### *Videogames
+*Sciences
+*Privacy
+Programmation
+*Videogames
 
 ### I'm from switzerland 🇨🇭 and I manage in English
 
