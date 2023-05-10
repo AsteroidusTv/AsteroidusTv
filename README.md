@@ -7,7 +7,8 @@
 ### My passions :
 
 * Sciences
-* Privacy
+* Privacy 
+* Cryptocurrency
 * Programmation
 * Videogames
 
