@@ -12,7 +12,7 @@
 * Programmation
 * Videogames
 
-### I'm from switzerland 🇨🇭 and I manage in English
+### I'm from switzerland 🇨🇭 (Black Hole is just a joke (: ) and I manage in English
 
 
 ## Have fun with my repositories.
