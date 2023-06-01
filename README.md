@@ -17,5 +17,5 @@
 
 ## Have fun with my repositories.
 
-If you'd like contact me you can at asteroidus@þrotonmail.com
+If you'd like contact me you can at asteroidus@protonmail.com
 
