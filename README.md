@@ -19,3 +19,4 @@
 
 If you'd like contact me you can at asteroidus@protonmail.com
 
+[![Asteroidus GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=AsteroidusTv)](https://github.com/AsteroidusTv)
