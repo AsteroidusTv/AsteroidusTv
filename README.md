@@ -12,8 +12,8 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/AsteroidusTv)
 
 ## Stats 📈
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AsteroidusTv&theme=dracula) 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsteroidusTv&theme=dracula) 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AsteroidusTv&theme=dracula) 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AsteroidusTv&theme=dracula) 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AsteroidusTv&theme=dracula) 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AsteroidusTv&theme=dracula&utcOffset=8) 
