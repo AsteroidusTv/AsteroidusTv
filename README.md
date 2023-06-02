@@ -18,4 +18,4 @@
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AsteroidusTv&theme=dracula) 
  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AsteroidusTv&theme=dracula&utcOffset=8) 
 
-### LEARN RUST THAT'S IMPORTANT
+### LEARN RUST THAT'S IMPORTANT !!! 🤣
