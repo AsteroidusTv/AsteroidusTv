@@ -14,8 +14,8 @@
 
 ### I'm from switzerland 🇨🇭 (Black Hole is just a joke (: ) and I manage in English
 
-[![Asteroidus GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Vital-Vuillaume&theme=algolia&show_icons=true)](https://github.com/AsteroidusTv)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Vital-Vuillaume&theme=algolia&show_icons=true)](https://github.com/AsteroidusTv)
+[![Asteroidus GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=AsteroidusTv&theme=algolia&show_icons=true)](https://github.com/AsteroidusTv)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Asteroidus&theme=algolia&show_icons=true)](https://github.com/AsteroidusTv)
 ## Have fun with my repositories.
 
 If you'd like contact me you can at asteroidus@protonmail.com
