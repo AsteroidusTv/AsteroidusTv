@@ -18,8 +18,8 @@
 [![Asteroidus GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=AsteroidusTv&theme=algolia&show_icons=true)](https://github.com/AsteroidusTv)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=AsteroidusTv&theme=algolia&show_icons=true)](https://github.com/AsteroidusTv)
 [![Most commit by languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AsteroidusTvtheme=algolia&show_icons=true)](https://github.com/AsteroidusTv)
-[![Productivity](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AsteroidusTvtheme=algolia&show_icons=true)](https://github.com/AsteroidusTv)
-[![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsteroidusTvtheme=algolia&show_icons=true)](https://github.com/AsteroidusTv)
+[![Productivity](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AsteroidusTv&theme=algolia&show_icons=true)](https://github.com/AsteroidusTv)
+[![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsteroidusTv&theme=algolia&show_icons=true)](https://github.com/AsteroidusTv)
 ## Have fun with my repositories.
 
 If you'd like contact me you can at asteroidus@protonmail.com
