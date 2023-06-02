@@ -8,7 +8,7 @@
 
 * Sciences
 * Privacy 
-* Cryptocurrency
+* Cryptocurrency and blockchain
 * Programmation
 * Videogames
 
@@ -18,8 +18,8 @@
 [![Asteroidus GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=AsteroidusTv&theme=algolia&show_icons=true)](https://github.com/AsteroidusTv)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=AsteroidusTv&theme=algolia&show_icons=true)](https://github.com/AsteroidusTv)
 [![Most commit by languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AsteroidusTv&theme=dracula)](https://github.com/AsteroidusTv)
-[](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AsteroidusTv&theme=algolia&utcOffset=2)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsteroidusTv&theme=algolia)
+[![Productivity](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AsteroidusTv&theme=algolia&utcOffset=2)](https://github.com/AsteroidusTv)
+[![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AsteroidusTv&theme=algolia)](https://github.com/AsteroidusTv)
 ## Have fun with my repositories.
 
 If you'd like contact me you can at asteroidus@protonmail.com
