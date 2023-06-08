@@ -1,5 +1,5 @@
 # Hello !
-## My name is Asteroidus I love programming, I'm living in Switterland 🇨🇭 (Black hole is a joke :) ) and I'm sure you're enjoy with my repositories
+## My name is Asteroidus I love programming, I'm living in a Black hole, I live there well I'm sure you're enjoy with my repositories
 
 ## Languages 🇬🇧
 [![Rust](https://img.shields.io/badge/rust-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/AsteroidusTv)
