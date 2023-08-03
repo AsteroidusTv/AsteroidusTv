@@ -30,5 +30,5 @@
  [![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AsteroidusTv&theme=dracula&utcOffset=2)](https://github.com/AsteroidusTv)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=ubuntu&weight=900&size=60&pause=1000&color=F7F7F7&width=900&height=90&lines=The+best+programming+language+is+?;There+is+one+answer;You+have+to+learn+it;Its+RUST!!!!;Why+you+still+alive?%3F)]([https://rmbi.ch/aster/](https://www.rust-lang.org/fr/tools/install))
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=ubuntu&weight=900&size=20&pause=1000&color=F7F7F7&width=900&height=90&lines=The+best+programming+language+is+?;There+is+one+answer;You+have+to+learn+it;Its+RUST!!!!;Why+you+still+alive?%3F)]([https://rmbi.ch/aster/](https://www.rust-lang.org/fr/tools/install))
  [![My Skills](https://skillicons.dev/icons?i=rust)](https://github.com/AsteroidusTv)
