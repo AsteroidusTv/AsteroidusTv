@@ -16,11 +16,11 @@
 
  - ### [Asterjdm](https://github.com/asterjdm)
    
-   **In this organization we wonder why not better!.**
+   In this organization we wonder why not better!.
  
  - ### [Feur-company](https://github.com/Feur-company)
    
-   **This organization is a serious subsidiary (ABSOLUTELY NOT) of asterjdm created to do things useful to society (NO)**
+   This organization is a serious subsidiary (ABSOLUTELY NOT) of asterjdm created to do things useful to society (NO)
 
 ## Stats
 
