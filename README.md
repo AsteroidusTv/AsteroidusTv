@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=ubuntu&weight=900&size=60&pause=1000&color=F7F7F7&width=900&height=90&lines=I'm+Asteroidus;I+have+10¹²IQ;I'm+god;Visit+my+website;Why+you+still+alive?%3F)](https://rmbi.ch/aster/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=60&pause=1000&color=F7F7F7&width=900&height=90&lines=I'm+Asteroidus;I+have+10¹²IQ;I'm+god;Visit+my+website;Why+you+still+alive?%3F)](https://rmbi.ch/aster/)
 
 ## Skills
 
