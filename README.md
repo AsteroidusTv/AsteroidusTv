@@ -1,5 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=60&pause=1000&color=F7F7F7&width=900&height=90&lines=I'm+Asteroidus;I+have+10¹²IQ;I'm+god;Visit+my+website;Why+you+still+alive?%3F)](https://rmbi.ch/aster/)
 
+## Organization
+
+ - ### [Asterjdm](https://github.com/asterjdm)
+   
+   In this organization we wonder why not better!.
+ 
+ - ### [Feur-company](https://github.com/Feur-company)
+   
+   This organization is a serious subsidiary (ABSOLUTELY NOT) of asterjdm created to do things useful to society (NO)
+
 ## Skills
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,rust,python,bash,md)](https://github.com/AsteroidusTv)
@@ -12,15 +22,6 @@
 
  [![Used technologies](https://skillicons.dev/icons?i=linux,vscode,git,github,discord)](https://github.com/AsteroidusTv)
 
-## Organization
-
- - ### [Asterjdm](https://github.com/asterjdm)
-   
-   In this organization we wonder why not better!.
- 
- - ### [Feur-company](https://github.com/Feur-company)
-   
-   This organization is a serious subsidiary (ABSOLUTELY NOT) of asterjdm created to do things useful to society (NO)
 
 ## Stats
 
