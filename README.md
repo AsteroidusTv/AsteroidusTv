@@ -1,93 +1,45 @@
-<style>
-  .hello {
-    font-size: 100px;
-    font-family: arial;
-    background: white;
-    color: black;
-    border-radius: 30px;
-  }
-  .orgs {
-    display: flex;
-    justify-content:center;
-  }
-  .organisations {
-    border-radius: 30px;
-    height: 100px;
-    width: 100px;
-    margin: 10px;
-}
-  .org-content {
-    display: block;
-  }
-</style>
-
-<center class="hello">Asteroidus</center>
-
-## Organizations
-  <center class="orgs">
-    <div class="org-content"><img src="asterjdm.png" class="organisations"><br><a src="https://github.com/asterjdm">Asterjdm</a></div>
-    <div class="org-content"><img src="feur.jpeg" class="organisations"><br><a src="https://github.com/feur-company">Feur-company</a><div>
-  </center>
-  <br>
-   <p class="org-des">
-   Asterjdm: In this organization we wonder why not better!.
-  </p>
-  <p>
-   Feur-company: This organization is a serious subsidiary (ABSOLUTELY NOT) of asterjdm created to do things useful to society (NO)
-   </p>
-
-<div style="text-align: center;">
-    <h2>Skills</h2>
-    <p>
-        <a href="https://github.com/AsteroidusTv">
-            <img src="https://skillicons.dev/icons?i=html,css,rust,python,bash,md" alt="My Skills">
-        </a>
-    </p>
-    <h2>Whant to learn</h2>
-    <p>
-        <a href="https://github.com/AsteroidusTv">
-            <img src="https://skillicons.dev/icons?i=tauri,webassembly" alt="Whant to learn">
-        </a>
-    </p>
-    <h2>Used technologies</h2>
-    <p>
-        <a href="https://github.com/AsteroidusTv">
-            <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,discord" alt="Used technologies">
-        </a>
-    </p>
-    <h2>Stats</h2>
-    <p>
-        <a href="https://github.com/AsteroidusTv">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AsteroidusTv&theme=dracula" alt="Stats">
-        </a>
-    </p>
-    <p>
-        <a href="https://github.com/AsteroidusTv">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AsteroidusTv&theme=dracula" alt="Stats">
-        </a>
-    </p>
-    <p>
-        <a href="https://github.com/AsteroidusTv">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AsteroidusTv&theme=dracula" alt="Stats">
-        </a>
-    </p>
-    <p>
-        <a href="https://github.com/AsteroidusTv">
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AsteroidusTv&theme=dracula&utcOffset=2" alt="Stats">
-        </a>
-    </p>
-    <p>
-        <a href="https://www.rust-lang.org/fr/tools/install" style="position: relative;
-        left: 50;";
-        ">
-            <img src="https://readme-typing-svg.demolab.com?font=ubuntu&weight=900&size=20&pause=1000&color=F7F7F7&width=900&height=90&lines=The+best+programming+language+is+?;There+is+one+answer;You+have+to+learn+it;Its+RUST!!!!;Why+you+still+alive%3F" alt="Typing SVG">
-        </a>
-    </p>
-    <p>
-        <a href="https://github.com/AsteroidusTv">
-            <img src="https://skillicons.dev/icons?i=rust" alt="My Skills">
-        </a>
-    </p>
-</div>
+<!-- Header -->
+<p align="center">
+  <img src="aster.png" width="200" height="200" style="border-radius: 50%; border: 2px solid white;">
+</p>
+<h1 align="center">Hello, I'm Asteroidus</h1>
+<p align="center">The smartest people in the world (10¹² iq)</p>
 
 
+<!-- Sections -->
+## About Me
+My name is Asteroidus I love programming, playing video games, sciences and RUST ! 
+
+## Known languages
+[![My Skills](https://skillicons.dev/icons?i=html,css,rust,python,bash,md)](https://github.com/AsteroidusTv)
+
+## Want to learn
+[![My Skills](https://skillicons.dev/icons?i=tauri,webassembly)](https://github.com/AsteroidusTv)
+
+## Tools and technologies
+[![Used technologies](https://skillicons.dev/icons?i=linux,vscode,git,github,discord)](https://github.com/AsteroidusTv)
+
+## Best projects
+### [CNPS](https://github.com/cnps-rust)
+Creating project starts is repetitive for you CNPS will create file layouts for you and open your IDE.
+
+### [Rust-sqlx](https://github.com/AsteroidusTv/Rust-Sqlx)
+Gui bookstore written in Rust.
+
+## Stats
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AsteroidusTv&theme=dracula)](https://github.com/AsteroidusTv)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AsteroidusTv&theme=dracula)](https://github.com/AsteroidusTv)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AsteroidusTv&theme=dracula)](https://github.com/AsteroidusTv)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AsteroidusTv&theme=dracula&utcOffset=2)](https://github.com/AsteroidusTv)
+
+<!-- Social Links -->
+<p align="center">
+  <a href="https://github.com/AsteroidusTv"><img src="https://img.icons8.com/material-rounded/30/000000/github.png"/></a>
+  <a href="rmbi.ch/aster"><img src="https://img.icons8.com/material-rounded/30/000000/web.png"/></a>
+
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <small>Learn rust ❤️</small>
+</p>
