@@ -11,10 +11,10 @@
 My name is Asteroidus I love programming, playing video games, sciences and RUST ! 
 
 ## Known languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,rust,python,bash,md)](https://github.com/AsteroidusTv)
+[![My Skills](https://skillicons.dev/icons?i=html,css,rust,python,bash,md,tauri)](https://github.com/AsteroidusTv)
 
 ## Want to learn
-[![My Skills](https://skillicons.dev/icons?i=tauri,webassembly)](https://github.com/AsteroidusTv)
+[![My Skills](https://skillicons.dev/icons?i=webassembly)](https://github.com/AsteroidusTv)
 
 ## Tools and technologies
 [![Used technologies](https://skillicons.dev/icons?i=linux,vscode,git,github,discord)](https://github.com/AsteroidusTv)
