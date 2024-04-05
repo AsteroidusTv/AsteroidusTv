@@ -8,7 +8,7 @@
 
 <!-- Sections -->
 ## About Me
-My name is Asteroidus I love programming, playing video games, sciences and RUST ! 
+My name is Asteroidus I love programming, sciences and RUST ! 
 
 ## Known languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,rust,python,bash,md,tauri)](https://github.com/AsteroidusTv)
