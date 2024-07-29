@@ -20,11 +20,15 @@ My name is Asteroidus I love programming, sciences and RUST !
 [![Used technologies](https://skillicons.dev/icons?i=linux,vscode,git,github,discord)](https://github.com/AsteroidusTv)
 
 ## Best projects
-### [CNPS](https://github.com/cnps-rust)
+
+### [Firefox-background](https://github.com/Firefox-background)
+Allows to easily set an image as a background on firefox main page.
+
+### [CNPS](https://github.com/Cnps)
 Creating project starts is repetitive for you CNPS will create file layouts for you and open your IDE.
 
-### [Rust-sqlx](https://github.com/AsteroidusTv/Rust-Sqlx)
-Gui bookstore written in Rust.
+### [gui-cnps](https://github.com/Gui-Cnps)
+Gui version of CNPS, (work in progress...)
 
 ## Stats
 [![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AsteroidusTv&theme=dracula)](https://github.com/AsteroidusTv)
