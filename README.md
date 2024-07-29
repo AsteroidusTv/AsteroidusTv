@@ -27,7 +27,7 @@ Allows to easily set an image as a background on firefox main page.
 ### [CNPS](https://github.com/Cnps)
 Creating project starts is repetitive for you CNPS will create file layouts for you and open your IDE.
 
-### [gui-cnps](https://github.com/Gui-Cnps)
+### [Gui-Cnps](https://github.com/Gui-Cnps)
 Gui version of CNPS, (work in progress...)
 
 ## Stats
@@ -45,5 +45,5 @@ Gui version of CNPS, (work in progress...)
 
 <!-- Footer -->
 <p align="center">
-  <small>Learn rust ❤️</small>
+  <small>Buy bitcoins ♥️</small>
 </p>
