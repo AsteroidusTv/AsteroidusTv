@@ -39,7 +39,7 @@ Gui version of CNPS, (work in progress...)
 <!-- Social Links -->
 <p align="center">
   <a href="https://github.com/AsteroidusTv"><img src="https://img.icons8.com/material-rounded/30/000000/github.png"/></a>
-  <a href="rmbi.ch/aster"><img src="https://img.icons8.com/material-rounded/30/000000/web.png"/></a>
+  <a href="https://rmbi.ch/aster"><img src="https://img.icons8.com/material-rounded/30/000000/web.png"/></a>
 
 </p>
 
